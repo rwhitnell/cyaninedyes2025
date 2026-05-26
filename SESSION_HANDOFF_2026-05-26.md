@@ -1,4 +1,4 @@
-# Session Handoff Archive (2026-05-24)
+# Session Handoff (2026-05-26)
 
 ## Active Notebook
 - Primary file: `dyes_part4_finite_well.ipynb`
